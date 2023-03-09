@@ -1,0 +1,20 @@
+.class{
+    background-color:rgb(246, 116, 218);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#id_One{
+    color: rgb(35, 35, 169);
+    font-size: 36px;
+}
+
+.coolerClass{
+    font-size: 24px;
+}
+
+/* Uses the 'coolerClass' to reduce duplicate code since both have the same 24px font size. */
+
+#id_Two{
+    background-color:rgb(185, 238, 185);
+    font-weight: bold;
+}
